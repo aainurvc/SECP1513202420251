@@ -1,5 +1,5 @@
 # Welcome to Ainur Mardhiah's E-portfolio ✮ ⋆ ˚｡𖦹 ⋆｡°✩!!
-Hi! I'm Ainur Mardhiah, a first-year student at Universiti Teknologi Malaysia (UTM), pursuing a degree in Computer Science with a focus on Network and Computer Security(Network and Computer Security)👩‍💻.
+Hi! I'm Ainur Mardhiah, a first-year student at Universiti Teknologi Malaysia (UTM), pursuing a degree in Computer Science (Network and Computer Security)👩‍💻.
 
 ## 📖Reflections
 
